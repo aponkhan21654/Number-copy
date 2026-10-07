@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumQueue</string>
+    <string name="floating_service_notification_title">NumQueue Floating Copy Active</string>
+    <string name="floating_service_notification_text">Tap floating icon on screen to copy next number</string>
+    <string name="channel_floating_service">Floating Icon Service</string>
+    <string name="channel_floating_desc">Maintains the floating copy icon overlay</string>
+</resources>
